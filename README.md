@@ -17,7 +17,3 @@
 <a href="https://1yearlog.tistory.com">
   <img alt="Tistory" src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/> 
 </a>
-
-<a href="https://velog.io/@yenawee/">
-  <img alt="Velog" src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white"/> 
-</a>
